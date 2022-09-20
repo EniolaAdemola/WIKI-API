@@ -12,7 +12,7 @@ NB: There's isn't live demo of this project to see how it works kindly follow th
 `
 - `npm install
 `
-- `node app.js
+- `node app
 `
 #### That's all you need to get started and you would see a live demo on your default browser. feel free to reach me below for any question.
 
